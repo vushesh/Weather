@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Archive>
+  <Name>Weather.Android</Name>
+  <PackageName>com.companyname.weather</PackageName>
+  <PackageVersionCode>1</PackageVersionCode>
+  <PackageVersionName>1.0</PackageVersionName>
+  <PackageFormat>apk</PackageFormat>
+  <CreationDate>637424080583548669</CreationDate>
+  <SolutionName>Weather</SolutionName>
+  <SolutionPath>C:\Users\vushe\source\repos\Weather\Weather.sln</SolutionPath>
+  <Status></Status>
+  <Configuration>
+    <DebugMode>false</DebugMode>
+  </Configuration>
+</Archive>

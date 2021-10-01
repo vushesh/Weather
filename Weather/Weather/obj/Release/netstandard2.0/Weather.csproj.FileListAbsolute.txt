@@ -1,0 +1,17 @@
+C:\Users\vushe\source\repos\Weather\Weather\bin\Release\netstandard2.0\Weather.deps.json
+C:\Users\vushe\source\repos\Weather\Weather\bin\Release\netstandard2.0\Weather.dll
+C:\Users\vushe\source\repos\Weather\Weather\bin\Release\netstandard2.0\ref\Weather.dll
+C:\Users\vushe\source\repos\Weather\Weather\bin\Release\netstandard2.0\Weather.pdb
+C:\Users\vushe\source\repos\Weather\Weather\obj\Release\netstandard2.0\Weather.csprojAssemblyReference.cache
+C:\Users\vushe\source\repos\Weather\Weather\obj\Release\netstandard2.0\AboutPage.xaml.g.cs
+C:\Users\vushe\source\repos\Weather\Weather\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\vushe\source\repos\Weather\Weather\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vushe\source\repos\Weather\Weather\obj\Release\netstandard2.0\PreferancePage.xaml.g.cs
+C:\Users\vushe\source\repos\Weather\Weather\obj\Release\netstandard2.0\Temperaturepage.xaml.g.cs
+C:\Users\vushe\source\repos\Weather\Weather\obj\Release\netstandard2.0\Weather.AssemblyInfoInputs.cache
+C:\Users\vushe\source\repos\Weather\Weather\obj\Release\netstandard2.0\Weather.AssemblyInfo.cs
+C:\Users\vushe\source\repos\Weather\Weather\obj\Release\netstandard2.0\Weather.csproj.CoreCompileInputs.cache
+C:\Users\vushe\source\repos\Weather\Weather\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\vushe\source\repos\Weather\Weather\obj\Release\netstandard2.0\Weather.dll
+C:\Users\vushe\source\repos\Weather\Weather\obj\Release\netstandard2.0\ref\Weather.dll
+C:\Users\vushe\source\repos\Weather\Weather\obj\Release\netstandard2.0\Weather.pdb

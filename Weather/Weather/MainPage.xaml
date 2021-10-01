@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Weather.MainPage">
+
+    <StackLayout BackgroundColor="Cyan" >
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome To Weather App!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36" Padding="30"/>
+        </Frame>
+
+        <Button Text="TEMPERATURE" Clicked="tempBtnClicked" Padding="40" BackgroundColor="Transparent" FontSize="30"></Button>
+        <Button Text="PREFERANCES" Clicked="prefBtnClicked" Padding="40" BackgroundColor="Transparent" FontSize="30"></Button>
+        <Button Text="About" Clicked="aboutBtnClicked" Padding="40" BackgroundColor="Transparent" FontSize="30"></Button>
+        <Label Text="" x:Name="perthTemp" HorizontalOptions="Center" FontSize="30"
+                   VerticalOptions="End"/>
+    </StackLayout>
+
+</ContentPage>
